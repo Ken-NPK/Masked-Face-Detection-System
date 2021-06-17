@@ -85,7 +85,7 @@ You can put images into the input folder. The output can be viewed inside the ou
 
 Input (face without mask)
 
-![Input Without Mask](https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/input/NG_PHOON_KEN_unmasked.jpg)
+<img src="https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/input/NG_PHOON_KEN_unmasked.jpg" alt="Input Without Mask" width=50% height=50%>
 
 Output (face without mask)
 
