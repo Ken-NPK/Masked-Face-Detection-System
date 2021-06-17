@@ -46,7 +46,7 @@ directory consists of 5909 unmasked face images.
 
 Noted:
    
-If you are downloading the dataset from this [Link](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset),
+If you are downloading the dataset from this [link](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset),
 you need to combine the image folder, where three sets (Test, Train and Validation) of
 WithMask images and WithoutMask images are combined to become one set. All images from
 WithMask directory put into the Masked folder, while all images from WithoutMask
