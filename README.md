@@ -89,15 +89,15 @@ Input (face without mask)
 
 Output (face without mask)
 
-![Output Without Mask](https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/output/(Predicted)%20NG_PHOON_KEN_unmasked.jpg)
+<img src="https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/output/(Predicted)%20NG_PHOON_KEN_unmasked.jpg" alt="Output Without Mask" width=50% height=50%>
 
 Input (face with mask)
 
-![Input With Mask](https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/input/NG_PHOON_KEN_masked.png)
+<img src="https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/input/NG_PHOON_KEN_masked.png" alt="Input With Mask" width=70% height=70%>
 
 Output (face with mask)
 
-![Output With Mask](https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/output/(Predicted)%20NG_PHOON_KEN_masked.png)
+<img src="https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/output/(Predicted)%20NG_PHOON_KEN_masked.png" alt="Output With Mask" width=70% height=70%>
 
 ## Data Source
 
