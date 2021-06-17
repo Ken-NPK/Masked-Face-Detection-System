@@ -54,7 +54,7 @@ directory put into the Unmasked folder.
 
 #### Second way (From Google Drive)
 
-Download the zip file from this [link](). Then unzip locally.
+Download the zip file from this [link](https://drive.google.com/drive/folders/1ZLX8XKxKHAoNOOfuUM60Jbl6qzR_z8Aq?usp=sharing). Then unzip locally.
 
 ### File set up before training process
 
@@ -85,18 +85,19 @@ You can put images into the input folder. The output can be viewed inside the ou
 
 Input (face without mask)
 
-
+![Input Without Mask](https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/input/NG_PHOON_KEN_unmasked.jpg)
 
 Output (face without mask)
 
-
+![Output Without Mask](https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/output/(Predicted)%20NG_PHOON_KEN_unmasked.jpg)
 
 Input (face with mask)
 
-
+![Input With Mask](https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/input/NG_PHOON_KEN_masked.png)
 
 Output (face with mask)
 
+![Output With Mask](https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/output/(Predicted)%20NG_PHOON_KEN_masked.png)
 
 ## Data Source
 
