@@ -93,11 +93,11 @@ Output (face without mask)
 
 Input (face with mask)
 
-<img src="https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/input/NG_PHOON_KEN_masked.png" alt="Input With Mask" width=70% height=70%>
+<img src="https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/input/NG_PHOON_KEN_masked.png" alt="Input With Mask" width=50% height=50%>
 
 Output (face with mask)
 
-<img src="https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/output/(Predicted)%20NG_PHOON_KEN_masked.png" alt="Output With Mask" width=70% height=70%>
+<img src="https://github.com/Ken-NPK/Masked-Face-Detection-System/blob/0d44f4213bb3052c91efc06d3b559210a124c32f/output/(Predicted)%20NG_PHOON_KEN_masked.png" alt="Output With Mask" width=50% height=50%>
 
 ## Data Source
 
