@@ -16,9 +16,9 @@ accuracy based on the classification report.
 
 ## Set up
 
-Example of Set Up
+Example of Set Up (Project Directory)
 
-[Link](https://drive.google.com/drive/folders/1lYKJ4hqSO5F_z1x4NeOsb7nfJQMD5O_M?usp=sharing)
+[Google Drive Link](https://drive.google.com/drive/folders/1lYKJ4hqSO5F_z1x4NeOsb7nfJQMD5O_M?usp=sharing)
 
 ### Packages
 
